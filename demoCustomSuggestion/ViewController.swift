@@ -18,7 +18,7 @@ class ViewController: UIViewController {
 	var suggestionView:CustomSuggestionView!
 	var rangeForReplaceText:NSRange!
 	var suggestionCellShow:Bool = false
-	
+	//tets
 	override func viewDidLoad() {
 		super.viewDidLoad()
 		userListArr = NSArray(array: ["amit","ankit","nikhil","ajay","abhay","vijay","vicky","rohan","vinay","nitin","vibhi","vicky"])
